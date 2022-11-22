@@ -1,0 +1,14 @@
+/*公用代码*/
+body
+{
+    font-size: 14px;
+    background: #f4f4f4;
+}
+
+.clearfix
+{
+    content: "";
+    clear: both;
+    display: block;
+    height: 0px;
+}
